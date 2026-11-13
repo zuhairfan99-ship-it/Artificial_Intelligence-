@@ -117,3 +117,25 @@ Save the screenshots in the `screenshots/` folder before submitting.
 
 ## Disclaimer
 This project is for learning and demonstration. A message predicted as not spam may still be harmful, and a spam prediction can be wrong. Do not rely on this small model for security or real inbox protection.
+
+## 8. Application Screenshots
+
+The following screenshots demonstrate the working Email Spam Classification application.
+
+### 1. Application Home Screen
+
+This screenshot shows the main interface where users can enter or paste email text for classification.
+
+![Application Home Screen](screenshots/home.png)
+
+### 2. Spam Email Prediction
+
+This screenshot demonstrates the application identifying a suspicious email as Spam.
+
+![Spam Prediction Result](screenshots/spam_result.png)
+
+### 3. Not Spam Email Prediction
+
+This screenshot demonstrates the application classifying a legitimate email as Not Spam.
+
+![Not Spam Prediction Result](screenshots/not_spam_result.png)
